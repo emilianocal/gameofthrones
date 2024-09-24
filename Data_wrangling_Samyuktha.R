@@ -16,5 +16,6 @@ GOT_updated <- GOT |>
   mutate(gender = gender_updated)
 View(GOT_updated)
 
-save(GOT_updated, file = "GOT_updated.csv")
+write.csv(GOT_updated, file = "GOT_updated.csv")
+
 
