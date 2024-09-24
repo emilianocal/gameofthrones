@@ -14,8 +14,10 @@ View(got)
 
 
 got %>% filter(time.hrs > -1) %>%
-  ggplot(aes(x = gender, y = time.hrs)) +
-  theme_classic() 
+  ggplot(aes(x = gender, y = time.hrs, fill = gender)) +
+  geom_boxplot() +
+  labs(title="Screentime vs Gender",x="Gender", y = "Screentime") +
+  guides(fill="none")
   
   
 
