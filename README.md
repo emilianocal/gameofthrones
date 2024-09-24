@@ -12,11 +12,11 @@ Powerpoint link: https://docs.google.com/presentation/d/1arLvquhG8uf8NF7RONxhYgA
 - [ ] Create a column for named vs unnamed
 
 ## Potential questions to address:
-- [ ]Do characters that switch sides live longer?
-- [ ]Does social status affect how long the characters lived?
-- [ ]Does gender affect how long the characters lived?
-- [ ]How many cases of: died of natural causes, murdered, executed and suicide?
-- [ ]Do named characters live longer than unnamed characters?
+- [ ] Do characters that switch sides live longer?
+- [ ] Does social status affect how long the characters lived?
+- [ ] Does gender affect how long the characters lived?
+- [ ] How many cases of: died of natural causes, murdered, executed and suicide?
+- [ ] Do named characters live longer than unnamed characters?
 
 
 ### Want to look at named vs unnamed characters:
