@@ -3,11 +3,11 @@ library(ggplot2)
 
 #Importing csv file into a dataframe
 updated_death_categories <- read.csv("GOT_updated_death_categories.csv")
-#View(updated_death_categories)
+View(updated_death_categories)
 
 #making a table of frequency of deaths by various causes by gender.
 table_gender_death <-  table(updated_death_categories$gender, updated_death_categories$death_category)
-#print(table_gender_death)
+print(table_gender_death)
 
 #converting the table into a dataframe and adding column names
 dtf = as.data.frame(table_gender_death)
@@ -26,7 +26,7 @@ male_deaths <-  mutate(male_deaths, Percentage = Frequency*100/sum(Frequency))
 
 #concatenating the male and female data frames
 death_gender <- rbind(female_deaths, male_deaths)
-#print(death_gender)
+print(death_gender)
 
 #plot
 gender_death_plot <- death_gender |> ggplot(aes(x = Death, y = Percentage)) +
