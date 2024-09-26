@@ -12,8 +12,9 @@ View(GOT)
 
 library(stringr)
 gender_updated = str_to_lower(GOT$gender)
+death_description_updated = str_to_lower(GOT$death_description)
 GOT_updated <- GOT |>
-  mutate(gender = gender_updated)
+  mutate(gender = gender_updated, death_description = death_description_updated)
 View(GOT_updated)
 
 write.csv(GOT_updated, file = "GOT_updated.csv")
