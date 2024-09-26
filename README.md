@@ -8,11 +8,11 @@ Powerpoint link: https://docs.google.com/presentation/d/1NZDZN_Fxp1jKUe0knF-E5oz
 
 ## Files
 
-[Raw data](gameofThrones.csv)
-[Cleaned up data with all lowercase](GOT_updated.csv)
-[Cleaned up data with death categorization by Gemini pro](GOT_updated_death_categories.csv)
-[Allegiance switching vs screentime](ally_alligence_code.R)
-[Death causes by gender](death_cause_gender.png)
+[Raw data](gameofThrones.csv)\
+[Cleaned up data with all lowercase](GOT_updated.csv)\
+[Cleaned up data with death categorization by Gemini pro](GOT_updated_death_categories.csv)\
+[Allegiance switching vs screentime](ally_alligence_code.R)\
+[Death causes by gender](death_cause_gender.png)\
 [Death causes by social status](death_cause_status.png)
 
 
