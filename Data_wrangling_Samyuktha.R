@@ -17,6 +17,11 @@ GOT_updated <- GOT |>
   mutate(gender = gender_updated, death_description = death_description_updated)
 View(GOT_updated)
 
+#Adding a "not available" to the last row in "death category".
+death_categories[207, 8] = "not available"
+ncol(death_categories)
+
+write.csv(death_categories, file = "GOT_updated_death_categories.csv")
 write.csv(GOT_updated, file = "GOT_updated.csv")
 
 

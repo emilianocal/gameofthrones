@@ -2,29 +2,27 @@
 
 Group project for Game of Thrones deaths.
 
-GOT_updated.cvs has the gender in all lowercase. 
 
-Powerpoint link: https://docs.google.com/presentation/d/1arLvquhG8uf8NF7RONxhYgA-VSHI3vLpnJpyu5oTrtc/edit?usp=sharing
+Powerpoint link: https://docs.google.com/presentation/d/1NZDZN_Fxp1jKUe0knF-E5ozlfBYMr7GM/edit?usp=sharing&ouid=107620548796840763758&rtpof=true&sd=true
 
-## Things to do:
-- [x] Correct syntax of gender
-- [ ] Correct the time in hours (there are some negative values).
-- [ ] Create a column for named vs unnamed
 
-## Potential questions to address:
-- [ ] Do characters that switch sides live longer?
-- [ ] Does social status affect how long the characters lived?
-- [ ] Does gender affect how long the characters lived?
-- [ ] How many cases of: died of natural causes, murdered, executed and suicide?
+## Files
+
+[Raw data](gameofThrones.csv)
+[Cleaned up data with all lowercase](GOT_updated.csv)
+[Cleaned up data with death categorization by Gemini pro](GOT_updated_death_categories.csv)
+[Allegiance switching vs screentime](ally_alligence_code.R)
+[Death causes by gender](death_cause_gender.png)
+[Death causes by social status](death_cause_status.png)
+
+
+## Questions:
+- [x] Do characters that switch sides live longer?
+- [x] Does social status affect how long the characters lived?
+- [x] Does gender affect how long the characters lived?
+- [x] How many cases of: died of natural causes, murdered, executed and suicide?
 - [ ] Do named characters live longer than unnamed characters?
 
 
-### Want to look at named vs unnamed characters:
-We could do it manually or use a dictionary package (check out dictionaRy)
-This involves checking if every name exists in the dictionary. Unnamed characters like "thin man" and "unnamed" would exist in the dictionary, while named characters would not (assuming all the names don't have meanings). 
 
-### Do characters that switch sides live longer?
-
-### Grouping causes of death in categories:
-We would use a dictionary library to group all the cases into murdered, death by natural cause, suicide and execution. This involves finding the meaning of every word in the string. For example, if any word is a synonym for "murdered", the character is entered in a new "murdered" column. 
 
