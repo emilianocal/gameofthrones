@@ -1,0 +1,208 @@
+Column1,name,gender,social_status,allegiance_switched,time.hrs,died,death_description,death_category
+1,Waymar Royce,male,lowborn,1,0.1,1,Killed by a white walker in a forest,murdered
+2,Gared Tuttle,male,lowborn,1,0.11,1,Decapitation by a white walker in a forest,murdered
+3,Will,male,lowborn,1,0.19,1,Decapitation by Ned Stark (legal execution) in a field,murdered
+4,Irri,female,lowborn,2,13.47,1,Strangled to death with a tassel by Doreah in a room in a castle in Qarth,murdered
+5,Jon Snow,male,highborn,2,63.99,0,NA,not available
+6,Bran Stark,male,highborn,1,63.99,0,NA,not available
+7,Robb Stark,male,highborn,1,24.34,1,Shot by arrows and stabbed in the abdomen in the wedding hall at The Twins,murdered
+8,Rodrik Cassel,male,lowborn,1,12.7,1,Decapitated by Theon Greyjoy in Winterfell castle grounds,murdered
+9,Rickon Stark,male,highborn,1,49.15,1,Shot with an arrow through the thorax by Ramsay Bolton in field near Winterfell,murdered
+10,Eddard Stark,male,highborn,1,-7.67,1,Decapitated by Ilyn Payne on the steps of the Great Sept of Baelor,murdered
+11,Catelyn Stark,female,highborn,1,24.34,1,Throat slit by Walder Frey in the wedding hall at The Twins,murdered
+12,Mordane ,female,lowborn,1,7.63,1,Decapitated by The Lannisters at King's Landing,murdered
+13,Sansa Stark,female,highborn,2,-63.98,0,NA,not available
+14,Arya Stark,female,highborn,2,63.98,0,NA,not available
+15,Jory Cassel,male,lowborn,1,4.16,1,Stabbed in the eye by Jamie Lannister in the streets of King's Landing,murdered
+16,Theon Greyjoy,male,highborn,2,60.09,1,"Impaled with a broken spear by the Night King, while defending Bran Stark, during the Battle of Winterfell",murdered
+17,Cersei Lannister,female,highborn,1,62.52,1,"Crushed by debris within the Red Keep, alongside Jaime Lannister, during the Battle of King's Landing",murdered
+18,Jaime Lannister,male,highborn,2,62.52,1,"Crushed by debris within the Red Keep, alongside Cersei Lannister, during the Battle of King's Landing",murdered
+19,Luwin,male,lowborn,1,16.32,1,Stabbed (euthanised) by Osha in the forst near Winterfell,murdered
+20,Joffrey Baratheon,male,highborn,1,26.74,1,Poisoned with the Strangler at his wedding feast by Olenna Tyrell in King's Landing,murdered
+21,Sandor Clegane,male,lowborn,2,62.31,1,"Threw himself into a fiery chasm, in order to kill his brother, Gregor Clegane, during the Battle of King's Landing",death by suicide
+22,Hodor,male,lowborn,1,45.95,1,Ravaged by wights at the door to the cave of the Three-Eyed Raven beyond The Wall,murdered
+23,Robert Baratheon,male,highborn,1,5.66,1,Mortally wounded by a wild boar after drinking poisoned wine given to him by Lancel Lannister,murdered
+24,Myrcella Baratheon,female,highborn,1,41.33,1,Poisoned with the Long Farewell after being kissed by Ellaria Sand inside a cabin on a ship leaving Dorne,murdered
+25,Tommen Baratheon,male,highborn,1,49.59,1,Committed suicide by jumping from a window in the Red Keep in King's Landing,death by suicide
+26,Tyrion Lannister,male,highborn,2,63.65,0,NA,not available
+27,Ros,female,lowborn,2,21.45,1,Shot multiple times by Joffrey with a crossbow in a bedroom in King's landing,murdered
+28,Daenerys Targaryen,female,highborn,1,62.35,1,Stabbed in the heart with a dagger by Jon Snow following the Battle of King's Landing,murdered
+29,Viserys Targaryen,male,highborn,1,4.65,1,Melted metal poured onto head by Khal Drogo inside a Dothraki tent,murdered
+30,Illyrio Mopatis,male,highborn,2,63.56,0,NA,not available
+31,Qotho,male,lowborn,1,6.9,1,Slashed in the face by Jorah Mormont,murdered
+32,Khal Drogo,male,lowborn,1,7.77,1,Suffocated by Daenerys Targaryen inside his own tent near Lhazar,murdered
+33,Mago,male,lowborn,1,5.95,1,Throat slashed and tongue ripped out by Khal Drogo near Lhazar,murdered
+34,Benjen Stark,male,highborn,1,55.34,1,Overwhelmed fighting wights next to an ice lake in the mountains beyond The Wall,murdered
+35,Jorah Mormont,male,highborn,2,59.54,1,"Stabbed multiple times by wights, while defending Daenerys Targaryen, during the Battle of Winterfell",murdered
+36,Doreah,female,lowborn,2,15.9,1,Locked inside Xaro's vault to die,murdered
+37,Rast,male,lowborn,1,28.28,1,Mauled by a direwolf in the forest near Craster's Keep,murdered
+38,Catspaw Assassin,male,lowborn,1,0.01,1,Mauled by a direwolf (throat ripped open) in a bedroom at Winterfell,murdered
+39,Ilyn Payne,male,lowborn,1,62.51,0,NA,not available
+40,Mycah,male,lowborn,1,0.14,1,Killed by Sandor Clegane at the Cross Roads,murdered
+41,Royal Steward,male,lowborn,1,62.32,0,NA,not available
+42,Petyr Baelish,male,highborn,2,55.22,1,Throat slit by Arya Stark with the Valyrian steel dagger inside Winterfell,murdered
+43,Renly Baratheon ,male,highborn,1,10.05,1,Stabbed in the chest by a demon birthed by Melisandre in a tent in a field near the Stormlands,murdered
+44,Varys,male,highborn,2,59.94,1,"Burned alive by Drogon, on the orders of Daenerys Targaryen, for treason",murdered
+45,Pycelle,male,lowborn,1,47.99,1,"Stabbed repeatedly by Qyburn's ""little birds"" in a room at King's Landing",murdered
+46,Old Nan,female,lowborn,1,1.51,1,Presumed to have passed away peacefully from old age in her bed at Winterfell,death by natural causes
+47,Jeor Mormont,male,lowborn,1,17.96,1,"Stabbed in the back by Rast, then stabbed repeatedly in the chest at Craster's Keep",murdered
+48,Grenn,male,lowborn,1,30.6,1,Killed by wildling giant in Castle Black tunnel,murdered
+49,Alliser Thorne,male,lowborn,1,42.44,1,Executed by hanging by Jon Snow for treason at Castle Black,murdered
+50,Pypar,male,lowborn,1,30.32,1,Shot through the neck with an arrow by Ygritte at Castle Black,murdered
+51,Lancel Lannister,male,highborn,2,47.67,1,"Stabbed in the back by Arthur, then incinerated by wildfire explosion in King's Landing's sewage system",murdered
+52,Barristan Selmy ,male,highborn,2,34.8,1,Stabbed repeately in the thorax and lower extremities by the Sons of the Harpy in the city streets of Meereen,murdered
+53,Rakharo,male,lowborn,2,7.34,1,Decaptiated by unknown rival khalasar in the desert,murdered
+54,Yoren,male,lowborn,1,8.61,1,Stabbed in the thoracic inlet by Armory Lorch and other men in a field near Harrenhal,murdered
+55,Aemon,male,highborn,1,36.3,1,Died peacefully in his bed from old age in his bedroom at Castle Black,death by natural causes
+56,Syrio Forel,male,lowborn,1,3.59,1,Killed by Meryn Trant in a sword fight at his residence in King's Landing,murdered
+57,Samwell Tarly,male,highborn,2,61.36,0,NA,not available
+58,Janos Slynt,male,lowborn,2,33.06,1,Beheaded with Longclaw for insubordination by Jon Snow at Castle Black,murdered
+59,Hugh,male,lowborn,1,0.3,1,Killed by a splintered lance through the neck while jousting with Gregor Clegane in King's Landing,murdered
+60,Tobho Mott,male,lowborn,1,60.98,0,NA,not available
+61,Gendry Baratheon,male,highborn,2,60.98,0,NA,not available
+62,Gregor Clegane,male,lowborn,1,59.29,1,"Thrown into a fiery chasm by his brother, Sandor Clegane, during the Battle of King's Landing",murdered
+63,Marillion,male,lowborn,1,60.63,0,NA,not available
+64,Bronn,male,highborn,2,60.62,0,NA,not available
+65,Loras Tyrell,male,highborn,2,46.31,1,Burned alive in a wildfire explosion in the Great Sept of Baelor,murdered
+66,Vardis Egen,male,lowborn,1,1.02,1,Stabbed in the thoracic inlet (and thrown down the Moon Door) by Bronn during Tyrion's (first) trial by combat at the Eyrie,murdered
+67,Robin Arryn,male,highborn,1,60.04,0,NA,not available
+68,Lysa Arryn,female,highborn,2,27.12,1,Fell to her death after being pushed out the Moon Door at the Eyrie by Petyr Baelish,murdered
+69,Mord,male,lowborn,1,60.01,0,NA,not available
+70,Barra,female,lowborn,1,5.1,1,Murdered by Janos Slynt with a knife inside brothel at King's Landing,murdered
+71,Mhaegen,female,lowborn,1,59.83,0,NA,not available
+72,Osha,female,lowborn,2,40.81,1,Stabbed in the neck by Ramsay Bolton at Winterfell,murdered
+73,Beric Dondarrion,male,highborn,2,55.09,1,"Stabbed multiple times by wights, while protecting Arya Stark, during the Battle of Winterfell",murdered
+74,Tywin Lannister,male,highborn,1,28.51,1,Shot in the stomach and heart by Tyrion Lannister with a crossbow whilst on latrine in his residence at King's Landing,murdered
+75,Armeca,female,lowborn,1,58.82,0,NA,not available
+76,Wineseller Assassin,male,lowborn,1,0.43,1,Died from exhaustion from being tied and dragged naked by a horse on the road to Lhazar,murdered
+77,Luke ,male,lowborn,1,58.42,0,NA,not available
+78,Dareon ,male,lowborn,1,58.36,0,NA,not available
+79,Mandon Moore,male,lowborn,1,10.14,1,Stabbed in the back of the head with a lance by Podrick Payne at the shore of Blackwater Bay,murdered
+80,Boros Blount,male,lowborn,1,56.54,1,Killed by Sandor Clegane during the Battle of King's Landing,murdered
+81,Todder,male,lowborn,1,58.38,0,NA,not available
+82,Meryn Trant,male,lowborn,1,35.52,1,"Stabbed in the skull and in the chest repeatedly, then throat slit by Arya Stark inside a brothel in Braavos",murdered
+83,Stable boy,male,lowborn,1,0,1,Stabbed in stomach by Ayra Stark with needle at the stables at King's Landing,murdered
+84,Shagga,male,lowborn,1,57.77,0,NA,not available
+85,Mirri Maz Duur,female,lowborn,1,2.1,1,Burned to death by Daenerys Targaryen in a field in the wastelands near Lhazar,murdered
+86,Greatjon Umber,male,highborn,1,38.03,1,Died during the War of the Five Kings,murdered
+87,Timett,male,lowborn,2,57.38,0,NA,not available
+88,Kevan Lannister,male,highborn,1,43.17,1,Burned alive in a wildfire explosion in the Great Sept of Baelor,murdered
+89,Chella ,female,lowborn,2,57.16,0,NA,not available
+90,Stevron Frey,male,highborn,1,43.68,1,Poisoned by Arya Stark at The Twins,murdered
+91,Joyeuse Erenford,female,highborn,1,17.43,1,Throat slit by Catelyn Stark in the wedding hall at The Twins,murdered
+92,Walder Frey,male,highborn,1,43.37,1,Throat slit with a knife by Arya Stark at The Twins,murdered
+93,Ryger Rivers,male,lowborn,1,43.67,1,Poisoned by Arya Stark at The Twins,murdered
+94,Arwaya Frey,female,highborn,1,57.06,0,NA,not available
+95,Shae,female,lowborn,1,26.34,1,Strangled to death with gold chains by Tyrion Lannister in a bedroom in King's Landing,murdered
+96,High Septon 1,male,lowborn,1,5.36,1,Torn apart by an angry mob in the streets of King's Landing,murdered
+97,Rickard Karstark,male,highborn,1,12.66,1,Decapitated by Robb Stark at Riverrun castle grounds,murdered
+98,Rorge,male,lowborn,1,22.14,1,Stabbed through the heart by Arya Stark in a field,murdered
+99,Lommy Greenhands,male,lowborn,1,2.67,1,Stabbed in the neck by Arya Stark in a field near Harrenhal,murdered
+100,Hot Pie,male,lowborn,1,55.7,0,NA,not available
+101,Jaqen H'ghar,male,lowborn,1,55.67,0,NA,not available
+102,Dontos Hollard,male,lowborn,2,18.55,1,Shot with arrow in the head by crossbowmen on the orders of Petyr Baelish in a rowboat outside King's Landing,murdered
+103,Aggo 1,male,highborn,1,55.31,0,NA,not available
+104,Kovarro,male,lowborn,1,55.28,0,NA,not available
+105,Eddison Tollett,male,lowborn,1,50.52,1,Stabbed to death by wights during the Battle of Winterfell,murdered
+106,Craster,male,lowborn,1,11.17,1,Stabbed in the larynx by Karl Tanner inside Craster's Keep,murdered
+107,Gilly,female,lowborn,2,55.18,0,NA,not available
+108,Cressen,male,lowborn,1,0.12,1,Poisoned by himself with The Strangler trying to kill Melisandre in the War Room at Dragonstone,death by suicide
+109,Melisandre,female,lowborn,2,51.42,1,Succumbed to old age after removing her enchanted necklace following the Battle of Winterfell,death by natural causes
+110,Matthos Seaworth,male,lowborn,1,6.56,1,Killed by wildfire explosion at Blackwater Bay,murdered
+111,Davos Seaworth,male,lowborn,2,55.14,0,NA,not available
+112,Selyse Baratheon,female,highborn,1,32.36,1,Committed suicide by hanging herself from a tree in the forest near Winterfell,death by suicide
+113,Stannis Baratheon,male,highborn,1,32.56,1,Beheaded by Brienne of Tarth in the forest near Winterfell,murdered
+114,Alton Lannister,male,highborn,1,4.91,1,Bludgeoned to death (head) by Jamie Lannister at a campsite in the Westerlands,murdered
+115,Marei,female,lowborn,1,54.77,0,NA,not available
+116,Daisy,female,lowborn,1,54.77,0,NA,not available
+117,Podrick Payne,male,lowborn,2,54.31,0,NA,not available
+118,Yara Greyjoy,female,highborn,2,54.16,0,NA,not available
+119,Balon Greyjoy,male,highborn,1,33.64,1,Thrown from a suspension bridge at Pyke by his brother Euron Greyjoy,murdered
+120,Salladhor Saan,male,lowborn,1,54.06,0,NA,not available
+121,Brienne of Tarth,female,highborn,2,53.69,0,NA,not available
+122,Margaery Tyrell,female,highborn,1,39.49,1,Burned alive in a wildfire explosion in the Great Sept of Baelor,murdered
+123,Polliver,male,lowborn,1,15.28,1,Stabbed in the throat by Arya Stark inside a tavern,murdered
+124,Amory Lorch,male,lowborn,1,3.92,1,Killed by dart tipped with poison (Wolfsbane) by Jaqen H'ghar at Harrenhal caste grounds,murdered
+125,Rennick,male,lowborn,1,0.03,1,Mauled by a direwolf in a field near Oxcross,murdered
+126,Roose Bolton,male,highborn,2,32.3,1,Stabbed in the chest by his son Ramsay Bolton at Winterfell,murdered
+127,Talisa Maegyr,female,lowborn,1,13.29,1,Stabbed repeatedly in the stomach by Lothar Frey in the wedding hall at The Twins,murdered
+128,Tickler,male,lowborn,1,1.17,1,Thrown from a castle wall by Jaqen H'ghar at Harrenhal (broken neck),murdered
+129,Silk King,male,lowborn,1,2.59,1,Throat slit by Pyat Pree in the ruling council chamber in Qarth,murdered
+130,Spice King,male,lowborn,1,2.59,1,Throat slit by Pyat Pree in the ruling council chamber in Qarth,murdered
+131,Xaro Xhoan Daxos,male,lowborn,1,5.3,1,Locked inside his vault in Qarth and left to die with Doreah,murdered
+132,Pyat Pree,male,lowborn,1,5.2,1,Burned alive by Daenerys Targaryen's dragons in the House of the Undying in Qarth,murdered
+133,Lorren,male,lowborn,1,4.82,1,Flayed alive by Ramsay Snow,murdered
+134,Dagmer Cleftjaw,male,lowborn,1,4.79,1,Flayed alive by Ramsay Snow,murdered
+135,Reginald Lannister,male,lowborn,1,51.95,0,NA,not available
+136,Hallyne,male,lowborn,2,51.82,0,NA,not available
+137,Malakho,male,lowborn,2,51.73,0,NA,not available
+138,Quaithe,female,lowborn,1,51.69,0,NA,not available
+139,Qhorin Halfhand,male,lowborn,1,4.25,1,Stabbed in the torso by Jon Snow in the mountains beyond The Wall,murdered
+140,Farlen,male,lowborn,1,4.22,1,Killed during the Sack of Winterfell,murdered
+141,Palla,female,lowborn,1,4.22,1,Killed during the Sack of Winterfell,murdered
+142,Ygritte,female,lowborn,1,19.7,1,Shot in the chest with an arrow by Olly at Castle Black,murdered
+143,Quent,male,lowborn,1,11.15,1,Presumed killed prior to or during the Red Wedding at The Twins,murdered
+144,Drennan,male,lowborn,1,1.66,1,Throat slit by Osha at Winterfell castle grounds,murdered
+145,Jacks,male,lowborn,1,10.96,1,Presumed killed prior to or during the Red Wedding at The Twins,murdered
+146,Torrhen Karstark,male,highborn,1,0.34,1,Strangled to death by Jamie Lannister at a campsite near Oxcross,murdered
+147,Bernadette,female,lowborn,1,50.16,0,NA,not available
+148,Lord of Bones,male,lowborn,1,25.68,1,Beaten to death with his own staff by Tormund at the shore of Hardhome,murdered
+149,Aggar,male,highborn,1,0.54,1,Flayed alive by Ramsay Snow,murdered
+150,Gelmarr,male,lowborn,1,0.54,1,Flayed alive by Ramsay Snow,murdered
+151,Urzen,male,lowborn,1,0.54,1,Flayed alive by Ramsay Snow at Winterfell,murdered
+152,Wex,male,lowborn,1,0.56,1,Flayed alive by Ramsay Snow at Winterfell,murdered
+153,Stygg,male,lowborn,1,0.56,1,Flayed alive by Ramsay Snow,murdered
+154,Tormund Giantsbane,male,lowborn,2,47.05,0,NA,not available
+155,Mance Rayder,male,lowborn,1,17.47,1,Shot with an arrow in chest by Jon Snow before being burned alive at Castle Black (mercy killing),murdered
+156,Qyburn,male,highborn,2,45.18,1,Head smashed on a rock by Gregor Clegane during the Battle of King's Landing,murdered
+157,Missandei,female,lowborn,2,43.92,1,Decapitated by Gregor Clegane on the orders of Cersei Lannister,murdered
+158,Kranzys mo Nakloz,male,highborn,1,2.55,1,Burnt to death by dragon at plaza at Astapor,murdered
+159,Jojen Reed,male,highborn,1,15.5,1,Stabbed multiple times by a wight and throat cut by his sister Meera Reed (mercy killing) outside the cave of the Three-Eyed Raven beyond The Wall,murdered
+160,Master Torturer,male,lowborn,1,1.49,1,Shot with arrows in chest by Ramsay Snow in the forest near the Dreadfort,murdered
+161,Orell,male,lowborn,1,5.94,1,Stabbed by Jon Snow in the abdomen outside the old tower at Queenscrown,murdered
+162,Meera Reed,female,highborn,1,45.87,0,NA,not available
+163,Thoros of Myr,male,lowborn,2,37.37,1,"Mauled by a wight bear, then froze to death during the night next to frozen lake in the mountains beyond The Wall",murdered
+164,Anguy,male,lowborn,1,45.84,0,NA,not available
+165,Ramsay Bolton,male,lowborn,1,31.18,1,Executed by being fed to his own dogs by Sansa Stark in the kennel at Winterfell,murdered
+166,Locke,male,lowborn,1,10.89,1,Neck broken by Bran Stark who had warged into Hodor in the forest near Craster's Keep,murdered
+167,Brynden Tully,male,highborn,1,29.85,1,Killed while fighting Lannister and Frey soldiers,murdered
+168,Edmure Tully,male,highborn,2,45.45,0,NA,not available
+169,Olenna Tyrell,female,highborn,2,34.57,1,Drank poison provided by Jaime Lannister at Highgarden,death by suicide
+170,Martyn Lannister,male,highborn,1,1.67,1,Stabbed in the thorax by Rickard Karstark at Riverrun,murdered
+171,Willem Lannister,male,highborn,1,1.67,1,Stabbed to death by Rickard Karstark and his men at Riverrun,murdered
+172,Karl Tanner,male,lowborn,1,10.61,1,Impaled through the back of the head with sword by Jon Snow at Craster's Keep,murdered
+173,Little Sam,male,lowborn,1,45.08,0,NA,not available
+174,Greizhen mo Ullhor,male,lowborn,1,1.14,1,Killed by the Unsullied on the orders of Daenerys Targaryen at plaza at Astapor,murdered
+175,Genna ,female,lowborn,1,44.87,0,NA,not available
+176,Kayla,female,lowborn,1,44.86,0,NA,not available
+177,Shireen Baratheon,female,highborn,1,20.25,1,Burned alive by Melisandre as a sacrifice in field near Winterfell,murdered
+178,Grey Worm,male,lowborn,1,43.15,0,NA,not available
+179,Olyvar,male,lowborn,1,43.07,0,NA,not available
+180,Walder Rivers,male,highborn,1,28.81,1,Killed and carved into a pie by Arya Stark at The Twins,murdered
+181,Lothar Frey,male,highborn,1,28.81,1,Killed and carved into a pie by Arya Stark at The Twins,murdered
+182,Razdal mo Eraz,male,highborn,1,26.63,1,Throat slit with a knife by Grey Worm at the cliffs of Meereen,murdered
+183,Violet,female,lowborn,1,0.28,1,Killed by Ramsay Bolton at Winterfell (not shown),murdered
+184,Myranda,female,lowborn,1,19.08,1,Thrown from a rampart by Theon Greyjoy at Winterfell castle grounds,murdered
+185,Steelshanks,male,lowborn,1,26.91,1,Presumed killed prior to or during the Battle of Bastards,murdered
+186,Prendahl na Ghezn,male,lowborn,1,0.63,1,Beheaded by Daario Naharis at Yunkai,murdered
+187,Mero,male,lowborn,1,0.63,1,Beheaded by Daario Naharis at Yunkai,murdered
+188,Daario Naharis,male,lowborn,2,41.2,0,NA,not available
+189,High Septon 2,male,lowborn,1,40.92,0,NA,not available
+190,Walda Frey/Bolton,female,lowborn,1,19.76,1,Mauled to death by Ramsay Bolton's hunting dogs in the Winterfell kennel,murdered
+191,Freya Frey,female,highborn,1,40.37,0,NA,not available
+192,Derwa Frey,female,highborn,1,40.37,0,NA,not available
+193,Janeya Frey ,female,highborn,1,40.37,0,NA,not available
+194,Marianne Frey,female,highborn,1,40.37,0,NA,not available
+195,Merry Frey,female,highborn,1,40.37,0,NA,not available
+196,Neyela Frey,female,highborn,1,40.37,0,NA,not available
+197,Sarra Frey,female,highborn,1,40.37,0,NA,not available
+198,Shirei Frey,female,highborn,1,40.37,0,NA,not available
+199,Waldra Frey,female,highborn,1,40.37,0,NA,not available
+200,Roslin Frey,female,highborn,1,39.96,0,NA,not available
+201,Oberyn Martell,male,highborn,1,6.42,1,Skull crushed by Gregor Clegane in Tyrion's (second) trial by combat in a fighting pit at King's Landing,murdered
+202,Ellaria Sand,female,lowborn,1,38.55,0,NA,not available
+203,Styr,male,lowborn,1,6.75,1,Bludgeoned in the head with a forging hammer by Jon Snow at Castle Black,murdered
+204,Thenn warg,male,lowborn,1,6.74,1,Shot in the head by Samwell Tarly with a crossbow at Castle Black,murdered
+205,Tansy,female,lowborn,1,0.03,1,Mauled to death by Ramsay Bolton's hunting dogs in the forest near the Dreadfort,murdered
+206,Mace Tyrell,male,highborn,1,23.38,1,Burned alive in a wildfire explosion in the Great Sept of Baelor,murdered
+207,Axell Florent,male,highborn,1,0,,,
