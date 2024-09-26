@@ -16,18 +16,23 @@ got <- read_csv("gameOfThrones.csv") %>%
 got %>% filter(time.hrs > 0) %>%
   ggplot(aes(x = social_status, y = time.hrs)) +
     geom_boxplot() +
-    labs(title = "Social Status vs Lifespan",
+    labs(title = "Social Status vs Screentime",
        x = "Social Status",
-       y = "Lifespan") +
+       y = "Screentime") +
   theme_minimal()
 lm(time.hrs ~ social_status, data = got) %>% summary
 
+got$group <- cut(got$allegiance_switched,
+                 breaks = c(-Inf, 1, Inf),
+                 labels = c(1,2))
+
+
 got %>% filter(time.hrs > -50) %>%
-  ggplot(aes(x = gender, y = time.hrs)) +
+  ggplot(aes(x = factor(group), y = time.hrs)) +
   geom_boxplot() +
-  labs(title = "Social Status vs Lifespan",
-       x = "Social Status",
-       y = "Lifespan") +
+  labs(title = "# of Times Allegiance Switched vs Screentime",
+       x = "# of Times Allegiance Switched",
+       y = "Screentime") +
   theme_minimal()
 
 lm()
